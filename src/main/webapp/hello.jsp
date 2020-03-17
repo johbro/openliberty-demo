@@ -4,6 +4,6 @@
     <title>Hello World</title>
 </head>
 <body>
-Hello World
+Hello Friends
 </body>
 </html>
